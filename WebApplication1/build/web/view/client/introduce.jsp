@@ -23,7 +23,7 @@
     <div class="container">
       <div class="row">
       	<div>
-      		<h1 style ="text-align: center; color: red;">Nông Sản 24h</h1>
+      		<h1 style ="text-align: center; color: red;">HAJA FOOD</h1>
       		<p>Chúng tôi hi vọng tất cả người tiêu dùng Việt nam sẽ được sử dụng những thụ phẩm rau củ quả tươi ngon, bổ dưỡng và an toàn nhất tại cửa hàng cung
       		 cấp thực phẩm rau củ sạch <strong>Nông Sản 24h</strong>.Với sứ mệnh trở thành một trong những nhà cung cấp thực phẩm sạch hàng đầu tại
       		 Việt Nam đưa đến người tiêu dùng loại nông sản tươi ngon nhất của các vùng miền trên toàn quốc với mục đích là 

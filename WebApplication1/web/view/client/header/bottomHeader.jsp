@@ -20,7 +20,7 @@
                   <p>daily<strong>Shop</strong> <span>Your Shopping Partner</span></p>
                 </a>-->
                 <!-- img based logo -->
-                <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo1.png" alt="logo img" width="100%"></a> 
+                <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo3.png" alt="logo img" width="30%"></a> 
               </div>
               <!-- / logo  -->
               <!-- Shipping service -->
