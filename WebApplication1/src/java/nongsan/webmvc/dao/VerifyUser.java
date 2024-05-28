@@ -8,33 +8,24 @@ import java.sql.SQLException;
 import nongsan.webmvc.jdbc.connectDB;
 
 public class VerifyUser {
-	public VerifyUser(String username)
-	{
-
-		try
-		{
-	    	String sql = "select * from users where username=?";
-	    	Connection con = connectDB.getConnect();
-	    	PreparedStatement st = con.prepareStatement(sql);
-	    	st.setString(1, username);
-	        ResultSet r1=st.executeQuery();
-	        String usernameCounter;
-	        if(r1.next()) 
-	         {
-	           usernameCounter =  r1.getString("username");
-	           if(usernameCounter.equalsIgnoreCase(username)) 
-	           {
-	               System.out.println("Username already exists");
-	           }
-	           else
-	           {
-	        	   System.out.println("Username is available");
-	           }
-	         }
-		}
-		catch(SQLException e)
-		{
-			e.printStackTrace();
-		}
-}
+    public VerifyUser(String username) {
+        try {
+            String sql = "select * from users where username=?";
+            Connection con = new connectDB().connection; // Tạo một thể hiện mới của connectDB và truy cập biến connection từ thể hiện đó
+            PreparedStatement st = con.prepareStatement(sql);
+            st.setString(1, username);
+            ResultSet r1 = st.executeQuery();
+            String usernameCounter;
+            if (r1.next()) {
+                usernameCounter = r1.getString("username");
+                if (usernameCounter.equalsIgnoreCase(username)) {
+                    System.out.println("Username already exists");
+                } else {
+                    System.out.println("Username is available");
+                }
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 }
