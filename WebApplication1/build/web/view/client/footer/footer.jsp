@@ -19,10 +19,10 @@
             <div class="row">
               <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
-                  <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo_footer1.png" alt="logo img" width="185px"></a> 
+                  <a href="${pageContext.request.contextPath}/"><img src="${url}/images/logo_footer2.png" alt="logo img" width="185px"></a> 
+                  
                   <ul class="aa-footer-nav">
 
-                    <li><p style="color:#888; text-align: justify; width: 95%">Là nơi chuyên buôn bán tất cả các mặt hàng về nông sản chất lượng. Chúng tôi luôn đặt tiêu chí về chất lượng và uy tín lên hàng đầu.</p></li>
                   </ul>
                 </div>
               </div>
@@ -47,7 +47,7 @@
                       <p><span class="fa fa-envelope"></span>bachnshe161333@fpt.edu.vn</p>
                     </address>
                     <div class="aa-footer-social">
-                      <a href="#"><span class="fab fa-facebook"></span></a>
+                      <a href="https://www.facebook.com/profile.php?id=61560331015883"><span class="fab fa-facebook"></span></a>
                       <a href="#"><span class="fab fa-youtube"></span></a>
                       <a href="#"><span class="fab fa-instagram"></span></a>
                       <a href="#"><span class="fab fa-skype"></span></a>

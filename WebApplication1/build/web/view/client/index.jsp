@@ -28,7 +28,7 @@
                                 <div class="aa-promo-banner">                    
                                     <img src="${url}/images/section6_tc.jpg" alt="dâu tây Đà Lạt">                    
                                     <div class="aa-prom-content">
-                                        <h4>Thit Trâu gác bêp</h4>                      
+                                        <h4>THỊT TRÂU GÁC BẾP</h4>                      
                                     </div>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@
                                 <div class="aa-promo-banner">                      
                                     <img src="${url}/images/section7_tc.jpg" alt="hạt tiêu daklak">                      
                                     <div class="aa-prom-content">
-                                        <h4>THIT LON GAC BEP</h4>                        
+                                        <h4>THỊT LỢN GÁC BẾP</h4>                        
                                     </div>
                                 </div>
 
@@ -63,7 +63,7 @@
                         <div class="aa-product-inner">
                             <!-- start prduct navigation -->
                             <ul class="nav nav-tabs aa-products-tab">
-                                <li class="active"><a href="#raucu" data-toggle="tab">Các Loai Thit</a></li>
+                                <li class="active"><a href="#raucu" data-toggle="tab">Các Loại Thịt</a></li>
 
                             </ul>
                             <!-- Tab panes -->
@@ -300,7 +300,7 @@ start single product item
                         <div class="aa-support-single">
                             <span class="fa fa-truck"></span>
                             <h4>MIỄN PHÍ VẬN CHUYỂN</h4>
-                            <P>Chúng tôi đã áp dụng gói miễn phí vận chuyển cho đơn hàng trên 280.000VNĐ.</P>
+                            <P>Chúng tôi đã áp dụng gói miễn phí vận chuyển cho đơn hàng trên 1.000.000VNĐ.</P>
                         </div>
                     </div>
                     <!-- single support -->
@@ -350,7 +350,7 @@ start single product item
                             <div class="aa-testimonial-single">
                                 <img class="aa-testimonial-img" src="${url}/images/avater-2.jpg" alt="avatar 2">
                                 <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                                <p> Về chất lượng của sản phẩm thì khỏi phải bàn, rau củ luôn tươi xanh nhìn rất thích. Tôi sẽ mua hàng ở đây thường xuyên<p>
+                                <p> Về chất lượng của sản phẩm thì khỏi phải bàn, thịt rất thơm và ngon. Tôi sẽ mua hàng ở đây thường xuyên<p>
                                 <div class="aa-testimonial-info">
                                     <p>Mỹ Tân</p>
                                     <span>Diễn Viên</span>
@@ -362,10 +362,10 @@ start single product item
                             <div class="aa-testimonial-single">
                                 <img class="aa-testimonial-img" src="${url}/images/avatar-1.jpg" alt="avatar 3">
                                 <span class="fa fa-quote-left aa-testimonial-quote"></span>
-                                <p>Nhiều lần đi làm bận rộn, không có thời gian ra siêu thị nên tôi thường mua hàng online ở đây. Chất lượng sản phẩm và dịch vụ ở đây rất là tốt!</p>
+                                <p>Không có thời gian ra siêu thị nên tôi thường mua hàng online ở đây. Chất lượng sản phẩm và dịch vụ ở đây rất là tốt!</p>
                                 <div class="aa-testimonial-info">
                                     <p>Oanh Oanh</p>
-                                    <span>Sinh viên</span>
+                                    <span>Bác sĩ</span>
                                 </div>
                             </div>
                         </li>
