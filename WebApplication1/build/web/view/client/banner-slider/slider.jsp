@@ -18,8 +18,8 @@
                 <img data-seq src="${url}/images/slide_5.jpg" alt="Men slide img" />
               </div>
               <div class="seq-title">
-                <h2 data-seq>THỊT TRÂU GÁC BẾP</h2>                
-                <p data-seq>Luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
+                <h2 data-seq>THIT TRÂU GÁC BÊP</h2>                
+                <p data-seq>luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
                 <a data-seq href="${pageContext.request.contextPath}/view/client/product" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>
@@ -29,8 +29,8 @@
                 <img data-seq src="${url}/images/slide_6.jpg" alt="Wristwatch slide img" />
               </div>
               <div class="seq-title">
-                <h2 data-seq>THỊT LỢN GÁC BẾP</h2>                
-                <p data-seq>Luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
+                <h2 data-seq>THIT TRÂU GÁC BÊP</h2>                
+                <p data-seq>luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
                 <a data-seq href="${pageContext.request.contextPath}/view/client/product" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>
@@ -41,8 +41,8 @@
               </div>
               <div class="seq-title">
                
-                <h2 data-seq>THỊT TRÂU GÁC BẾP</h2>                
-                <p data-seq> Luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
+                <h2 data-seq>THIT TRÂU GÁC BÊP</h2>                
+                <p data-seq> luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
                 <a data-seq href="${pageContext.request.contextPath}/view/client/product" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>
@@ -52,8 +52,8 @@
                 <img data-seq src="${url}/images/slide_8.jpg" alt="Shoes slide img" />
               </div>
               <div class="seq-title">
-                <h2 data-seq>THỊT LỢN GÁC BẾP</h2>                
-                <p data-seq>Luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
+                <h2 data-seq>THIT TRÂU GÁC BÊP</h2>                
+                <p data-seq>luôn đảm bảo tính an toàn và chất lượng lên hàng đầu.</p>
                 <a data-seq href="${pageContext.request.contextPath}/view/client/product" class="aa-shop-now-btn aa-secondary-btn">Xem Sản Phẩm</a>
               </div>
             </li>                   
