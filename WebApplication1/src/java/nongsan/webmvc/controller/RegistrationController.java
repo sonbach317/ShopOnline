@@ -31,7 +31,6 @@ public class RegistrationController extends HttpServlet {
         response.setContentType("text/html");
         request.setCharacterEncoding("utf-8");
         response.setContentType("text/html;charset=UTF-8");
-        RegisterDao register = new RegisterDao();
         String username = request.getParameter("username");
         String password = request.getParameter("password");
         String email = request.getParameter("email");
@@ -41,17 +40,16 @@ public class RegistrationController extends HttpServlet {
 
         User user = new User(username, password, email, phone, name, created);
 
-       // RegisterDao register = new RegisterDao(connectDB.connection); // Truyền kết nối vào constructor
-         // Truyền kết nối vào constructor
-
-        if (register.RegisterUser(user)) {
-            request.setAttribute("Message", "Bạn đã tạo tài khoàn thành công. Mời bạn đăng nhập");
-            RequestDispatcher rd = request.getRequestDispatcher("/view/client/register.jsp");
-            rd.forward(request, response);
-        } else {
-            request.setAttribute("errMessage", "Tạo tài khoản thất bại. Hãy thử lại !!!");
-            RequestDispatcher rd = request.getRequestDispatcher("/view/client/register.jsp");
-            rd.forward(request, response);
-        }
+//        RegisterDao register = new RegisterDao(connectDB.connection); // Truyền kết nối vào constructor
+//
+//        if (register.RegisterUser(user)) {
+//            request.setAttribute("Message", "Bạn đã tạo tài khoàn thành công. Mời bạn đăng nhập <a href='/do-an-java/view/client/login'>tại đây!</a>");
+//            RequestDispatcher rd = request.getRequestDispatcher("/view/client/register.jsp");
+//            rd.forward(request, response);
+//        } else {
+//            request.setAttribute("errMessage", "Tạo tài khoản thất bại. Hãy thử lại !!!");
+//            RequestDispatcher rd = request.getRequestDispatcher("/view/client/register.jsp");
+//            rd.forward(request, response);
+//        }
     }
 }
