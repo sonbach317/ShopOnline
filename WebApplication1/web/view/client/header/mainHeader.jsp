@@ -17,7 +17,7 @@
     
     <!-- Bootstrap -->
     <link href="${url}/css/bootstrap.css" rel="stylesheet">   
-     <link rel="icon" href="${url}/images/favicon.png" type="image/x-icon">
+     <link rel="icon" href="${url}/images/favicon2.png" type="image/x-icon">
     <!-- SmartMenus jQuery Bootstrap Addon CSS -->
     <link href="${url}/css/jquery.smartmenus.bootstrap.css" rel="stylesheet">
     <!-- Product view slider -->
